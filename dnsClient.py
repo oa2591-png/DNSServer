@@ -196,3 +196,4 @@ if __name__ == '__main__':
 
     result = dns_query(args.type, args.name, args.server)
 ```
+ 
